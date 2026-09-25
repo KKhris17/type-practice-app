@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788519389275,
+      "tag": "0000_curvy_freak",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788765722790,
+      "tag": "0001_crazy_shadowcat",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788772907463,
+      "tag": "0002_optimal_elektra",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1788870019439,
+      "tag": "0003_married_bloodaxe",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1789475436951,
+      "tag": "0004_early_hemingway",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1789550532605,
+      "tag": "0005_rare_sheva_callister",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1790276302449,
+      "tag": "0006_nasty_squadron_supreme",
+      "breakpoints": true
+    }
+  ]
+}
